@@ -10,18 +10,25 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Description: 
+###  This is an admin page where all the data can be analyzed on charts. 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Build Using: 
+1 . Angular
+2. Material UI
+3. HTML
+4. CSS 
+5. Bootstrap
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Deploy Link : https://admin-dashboard-site.netlify.app/
 
-## Running end-to-end tests
+## Screenshots: 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+![Screenshot 2023-03-11 185914](https://user-images.githubusercontent.com/107243951/224502633-9dc99178-f743-4678-b70e-2c29020af536.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Screenshot 2023-03-11 185939](https://user-images.githubusercontent.com/107243951/224502634-f5b2249e-9138-430a-ab4d-467e71776328.png)
+
+![Screenshot 2023-03-11 190129](https://user-images.githubusercontent.com/107243951/224502631-1a4a1b47-9c37-462b-984d-d5f04382e7a1.png)
+
