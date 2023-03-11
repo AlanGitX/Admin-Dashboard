@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'dashboard';
+  sidebar=true;
+  isSidebartoggle(){
+    this.sidebar=!this.sidebar
+  }
 }
